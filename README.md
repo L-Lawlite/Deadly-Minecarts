@@ -1,5 +1,7 @@
-# Template for datapack Made by L.Lawliet
+# Deadly Minecarts Datapack by Lawliet
 
----
+Updated version of timber forge version of the same datapack link down below
 
-`.gitkeep` file doesn't have any meaning its just there to keep the empty folders there in git. Feel free to remove it.
+[Timber Forge Deadly Minecart Video](https://www.youtube.com/watch?v=zieIpUY_i58&list=PPSV)
+
+If you need me to change the death message using resourcepack contact me. `lawliet__` on discord.

@@ -1,0 +1,1 @@
+execute as @e[type=#deadly_minecarts:carts] at @s if entity @e[type=!#deadly_minecarts:not_mob,distance=0..4] run function deadly_minecarts:cart

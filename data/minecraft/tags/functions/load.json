@@ -1,3 +1,6 @@
 {
-  "values":["namespace:load"]
+  "values":[
+    "math:load",
+    "deadly_minecarts:load"
+  ]
 }

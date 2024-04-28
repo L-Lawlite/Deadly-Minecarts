@@ -1,0 +1,19 @@
+{
+    "display": {
+      "icon": {
+        "id": "minecraft:tnt_minecart"
+      },
+      "title": "Deadly Minecarts Datapacks",
+      "description": "",
+      "background": "minecraft:textures/block/gray_concrete.png",
+      "show_toast": false,
+      "announce_to_chat": false
+    },
+    "parent": "math:math",
+    "criteria": {
+      "trigger": {
+        "trigger": "minecraft:tick"
+      }
+    }
+  }
+  

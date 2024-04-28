@@ -1,0 +1,19 @@
+{
+    "display": {
+      "icon": {
+        "id": "minecraft:knowledge_book"
+      },
+      "title": "Math Datapacks",
+      "description": "",
+      "background": "minecraft:textures/block/gray_concrete.png",
+      "show_toast": false,
+      "announce_to_chat": false
+    },
+    "parent": "global:lawliet",
+    "criteria": {
+      "trigger": {
+        "trigger": "minecraft:tick"
+      }
+    }
+  }
+  
